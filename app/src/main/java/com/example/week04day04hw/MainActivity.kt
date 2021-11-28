@@ -24,6 +24,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+
         connectViews()
         bottomNavigationClicks()
 //        chooseFragment(HomeFragment(),"HOME")
